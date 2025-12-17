@@ -3,7 +3,7 @@ Resources for learning about Git and GitHub
 
 # Information about Git
 
-This is a good introduction to Git: <a href="https://try.github.io/">Try GitHub</a>
+This is a good introduction to Git YES YES: <a href="https://try.github.io/">Try GitHub</a>
 
 This is a quote from Jessica: "This video was very helpful in understanding the benefits of Git":
 <a href="https://git-scm.com/video/what-is-git">What is Git?</a>
